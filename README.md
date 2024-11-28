@@ -1,9 +1,9 @@
 # 💫 Sobre mim:
 🧠 Estudando no Instituto Federal de Educação, Ciência e Tecnologia Catarinense (Informática para Internet)<br>
-🔭 Atualmente trabalhando em pequenos projetos de bibliotecas usando SASS e LitElement<br>
-🌱 Aprendendo, neste momento, SQL, C# e Frameworks Front-end<br>
+🔭 Atualmente trabalhando em pequenos projetos de bibliotecas usando Angular e Less<br>
+🌱 Aprendendo, neste momento, SQL, PHP e Frameworks Front-end<br>
 💬 Entusiasta do Front-end<br>
-⚡ Um fato interessante sobre mim: sou um escritor e músico, dedicando meus pequenos momentos em codificar com JS e escrever.
+⚡ Um fato interessante sobre mim: sou um escritor de contos, dedicando meus pequenos momentos em codificar e escrever.
 
 # 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-mignoni-519967321/) 
@@ -18,7 +18,7 @@
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 
-# 🪶 Design
+# 🪶 Design:
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
