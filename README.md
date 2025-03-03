@@ -1,7 +1,7 @@
 # 💫 Sobre mim:
 🧠 Estudando no Instituto Federal de Educação, Ciência e Tecnologia Catarinense (Informática para Internet)<br>
 🔭 Buscando sobre reatividade e componentes específicos. Trabalhando em meu portifólio!<br>
-🌱 Aprendendo, neste momento, SQL, PHP e Frameworks Front-end<br>
+🌱 Aprendendo, neste momento, SQL, PHP e Flutter!<br>
 💬 Futuro dev full-stack<br>
 ⚡ Um fato interessante sobre mim: sou um escritor de contos, dedicando meus pequenos momentos em codificar e escrever.
 
@@ -23,6 +23,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
 # ✏️ Aprendendo
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
