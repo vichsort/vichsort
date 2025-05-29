@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 🧠 Estudando no Instituto Federal de Educação, Ciência e Tecnologia Catarinense - Informática para Internet<br>
-🥇 Vencedor de um Hackathon | AWS Academy Cloud Foundations
+🥇 Vencedor de um Hackathon | AWS Academy Cloud Foundations<br>
 🔭 Desenvolveu meus projetos pessoais, Trabalhando em meu portifólio!<br>
 🌱 Aprendendo, neste momento, Raspberry PI e Flutter!<br>
 💬 Desenvolvedor full-stack<br>
