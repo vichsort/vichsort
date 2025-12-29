@@ -1,27 +1,26 @@
-<img src="./assets/logo.png" alt="logo" min-width="400px" max-width="400px" width="400px" align="right">
 
 # 💫 Sobre mim:
-<p align="left"> 
+ 
   Sou um desenvolvedor full-stack com foco em data science e cloud computing. Tenho experiência como instrutor de programação e robótica. Trabalhando atualmente em projetos próprios.
-</p>
 
-<img src="./assets/cloud-foundations.png" min-width="200px" max-width="200px" width="200px" align="left">
 
-<p align="left">
+<img src="./assets/cloud-foundations.png" min-width="200px" max-width="200px" width="200px">
+
+
   🧠 Formado no Instituto Federal de Educação, Ciência e Tecnologia Catarinense - Informática para Internet.
-</p>
 
-<p align="left">
+
+
   🥇 Vencedor do primeiro Hackathon Agro do IFC Concórdia!
-</p>
 
-<p align="left">
+
+
   🥇 Vencedor da primeira feira de energia limpa do Consórcio Itá!
-</p>
 
-<p align="left">
+
+
   📨 Você pode entrar em contato comigo por esses meios:
-</p>
+
 
 <p align="left">
   <a href="mailto:mignonivitor@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Vitor,%0A%0AVi%20seu%20perfil%20no%20GitHub...">
